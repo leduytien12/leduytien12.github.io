@@ -24,7 +24,7 @@ const __DATA__ = {
             'image' : 'wallet.png',
             'title' : 'Thông Tin Thanh Toán', 
             'show-value' : 'Lê Duy Tiến',
-            'value' : 'https://leduytienthanhtoan.ga/LeDuyTienDz/',
+            'value' : 'https://leduytien12.github.io/LeDuyTienDz/',
             'type' : 0,
         },
         {
